@@ -1,0 +1,8 @@
+------------------------------------------------------------------------
+r184 | Torhal | 2018-04-12 00:31:08 +0000 (Thu, 12 Apr 2018) | 1 line
+Changed paths:
+   M /trunk/LibQTip-1.0.lua
+
+Fix regression for custom labelproviders which don't provide a fontString.
+------------------------------------------------------------------------
+
