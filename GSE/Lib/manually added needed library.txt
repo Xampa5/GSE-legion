@@ -1,0 +1,3 @@
+"I don’t keep older versions available. People keep asking about bugs that were fixed in the newer versions. I also don’t support private servers."
+ - TimothyLuke, Aug '18
+https://wowlazymacros.com/t/gnome-sequencer-enhanced-for-7-3-5/4802/3

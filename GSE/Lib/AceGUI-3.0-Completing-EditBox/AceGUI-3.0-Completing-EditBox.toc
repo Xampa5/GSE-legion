@@ -1,0 +1,18 @@
+## Interface: 60200
+## Title: Lib: AceGUI-3.0-Completing-EditBox
+## Author: Farmbuyer of US-Kilrogg
+## Notes: Creates parameterized AceGUI-3.0 editboxes with autocompletion
+## OptionalDeps: Ace3
+## X-Curse-Packaged-Version: 1.4.2
+## X-Curse-Project-Name: AceGUI-3.0-Completing-EditBox
+## X-Curse-Project-ID: acegui-3-0-completing-editbox
+## X-Curse-Repository-ID: wow/acegui-3-0-completing-editbox/mainline
+
+#@no-lib-strip@
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\AceGUI-3.0\AceGUI-3.0.xml
+#@end-no-lib-strip@
+
+AceGUI-3.0-Completing-EditBox.lua
+
